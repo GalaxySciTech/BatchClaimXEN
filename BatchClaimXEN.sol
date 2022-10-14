@@ -1,6 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2022-10-12
- */
 
 /**
  *Submitted for verification at BscScan.com on 2022-10-10
@@ -9,6 +6,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
+// Fix by https://bscscan.com/address/0xD68a9936Bd48A0BD9274eB4e2BF0542822630De0#code
 contract BatchClaimXEN {
     // https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1167.md
     bytes miniProxy; // = 0x363d3d373d3d3d363d73bebebebebebebebebebebebebebebebebebebebe5af43d82803e903d91602b57fd5bf3;
